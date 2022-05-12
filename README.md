@@ -23,3 +23,5 @@ but easy to look up. Knowing how the sensor works is necessary but easy to look 
 This is project was created using verilog in Vivado. C was used for the software portions of this project. This was project was created using Vivado 2018.3
 so the Vivado SDK was used for creating the software application.
 
+The project Overview pdf includes some extra information
+
