@@ -20,7 +20,7 @@ There may be somethings that someone who decided to create this project needs to
 and gpio blocks. You may not completely need to know how to create custom axi light peripherals but it would help. Understanding how breadboards work is necessary 
 but easy to look up. Knowing how the sensor works is necessary but easy to look up as well.
 
-This is project was created using verilog in Vivado. C was used for the software portions of this project. This was project was created using Vivado 2018.3
+This project was created using verilog in Vivado. C was used for the software portion of this project. This project was created using Vivado 2018.3
 so the Vivado SDK was used for creating the software application.
 
 The project Overview pdf includes some extra information
